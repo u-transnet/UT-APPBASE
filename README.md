@@ -1,2 +1,2 @@
 # UT-APPBASE
-Развитие SDK для проектирования и реализации приложений на платформе Transnet
+Диаграмма стека технологий доступна по [этой ссылке](https://drive.google.com/file/d/19CqWahsnBMO-odHLNvBCnS_zNbFubmo8/view?usp=sharing).
