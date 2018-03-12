@@ -1,2 +1,3 @@
 # UT-APPBASE
-Диаграмма стека технологий доступна по [этой ссылке](https://drive.google.com/file/d/19CqWahsnBMO-odHLNvBCnS_zNbFubmo8/view?usp=sharing).
+Диаграмма стека технологий доступна по [этой ссылке](https://www.draw.io/#Hu-transnet%2FUT-APPBASE%2Ftechnology_stack%2Fdrawings%2F).
+Архитектура прикладного слоя платформы, [диаграмма](https://www.draw.io/#Hu-transnet%2FUT-APPBASE%2Ftechnology_stack%2Fdrawings%2FTechnologyStack.xml)
